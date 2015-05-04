@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<!--Bridgen bgp25-->
+
+<html>
+	<head>
+		<title>Welcome to Scholly!</title>
+			<link rel="stylesheet" href="style.css">
+		
+	</head>
+	<body>
+	<div id="container">
+		<img src="images/logo.jpg"</img>
+		<br>
+		<div id="banner">
+		<h2>Home &nbsp Download &nbsp Success Stories &nbsp Contact Us</h2>
+		</div> <!--ends banner-->
+		<br>
+		<br>		
+			<div id="content">	
+			
+				<img src="images/home.png"</img>
+			<table>
+			<tr>
+				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">Answer a few questions such as your: gpa, gender, major, etc. 
+				to view scholarships specifically for you.</div></td>
+				
+				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">Download the application 
+				on either on iOS or Android!</div></td>	
+				
+				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">With nearly 250,000 downloads, see why people 
+				are downloading Scholly today!</div></td>
+			</tr>
+			</table>		
+					
+			</div> <!--ends content-->
+			
+		<div id="navigation">
+		</div> <!--end navigation-->
+		
+		<div id="footer">
+		</div> <!--footer-->
+	</div> <!--ends container-->
+		
+	</body>
+</html>
+
