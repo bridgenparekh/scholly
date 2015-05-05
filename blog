@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<!--Bridgen bgp25-->
+<html>
+	<head>
+		<title>Welcome to Scholly!</title>
+			<link rel="stylesheet" href="../style.css">	
+			
+	</head>
+	<body>
+	<div id="container">
+		<img src="../images/logo.jpg"</img>
+		<br>
+		<div id="banner">
+		<h2>
+		<a href="../index.html">Home</a>&nbsp
+		<a href="../download/download.html">Download</a>&nbsp
+		<a href="blog.html">Success Stories</a>&nbsp 
+		<a href="../contact_us/Contact Us.html">Contact Us</a>
+		</h2>
+		</div> <!--ends banner-->
+		<br>
+		<br>		
+		
+	
+	
+		</div> <!--ends content-->
+			
+		<div id="navigation">
+		</div> <!--end navigation-->
+		
+		<div id="footer">
+		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
+		<p>Press | Download | Twitter | Blog | Advertise</p>
+		</div> <!--footer-->
+	</div> <!--ends container-->
+		
+	</body>
+</html>
+
