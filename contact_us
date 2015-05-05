@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<!--Bridgen bgp25-->
+<html>
+	<head>
+		<title>Welcome to Scholly!</title>
+			<link rel="stylesheet" href="../style.css">
+		
+	</head>
+	<body>
+	<div id="container">
+		<img src="../images/logo.jpg"</img>
+		<br>
+		<div id="banner">
+		<h2>
+		<a href="../index.html">Home</a>&nbsp
+		<a href="../download/download.html">Download</a>&nbsp
+		<a href="../blog/blog.html">Success Stories</a>&nbsp 
+		<a href="Contact Us.html">Contact Us</a>
+		</h2>
+		</div> <!--ends banner-->
+		<br>
+		<br>		
+		
+		<div id="content_CU">
+		<h1>Contact Us</h1>
+		<h3>Name:</h3>
+		<input text="text" name="textbox1" size="40"/>
+		
+		<h3>E-mail:</h3>
+		<input text="text" name="textbox1" size="40"/>
+
+		<h3>Message:</h3>
+		<textarea rows="4" cols="50">
+		</textarea>
+		<br>
+		<br>
+		<button type="button">Submit</button>
+		</div>
+		<br>
+		<div id="navigation">
+		</div> <!--end navigation-->
+
+		<div id="footer">
+		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
+		<p>Press | Download | Twitter | Blog | Advertise</p>
+		</div> <!--footer-->
+	</div> <!--ends container-->
+		
+	</body>
+</html>
+
