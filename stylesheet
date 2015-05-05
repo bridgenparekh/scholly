@@ -35,6 +35,21 @@ body
 	margin: auto;
 	padding: 0;
 }
+#content_CU
+{
+	text-align: left;
+}
+
+#img
+{
+	float: right;
+}
+#image_CU
+{
+	
+	height: 70; 
+	width: 100;
+}
 
 #footer
 {
