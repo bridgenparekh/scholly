@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<!--Bridgen bgp25-->
+<html>
+	<head>
+		<title>Welcome to Scholly!</title>
+			<link rel="stylesheet" href="../style.css">
+		
+	</head>
+	<body>
+	
+	<div id="container">
+		<img src="../images/logo.jpg"</img>
+		<br>
+		<div id="banner">
+		<h2>
+		<a href="../index.html">Home</a>&nbsp
+		<a href="download.html">Download</a>&nbsp
+		<a href="../blog/blog.html">Success Stories</a>&nbsp 
+		<a href="../contact_us/Contact Us.html">Contact Us</a>
+		</h2>
+		</div> <!--ends banner-->
+		<br>
+		<br>		
+		
+		<table>
+<tr>
+				<td>
+				<div style="width:305px;height:100px;border:1px solid #000; display: inline-block;"><b>Scholly for iOS</b>
+				<img src="../images/idevices.png" height="30" width="25"></img>
+					<br><br>
+					<INPUT Type="BUTTON" Value="Download" Onclick="window.location.href='http://itunes.apple.com/us/app/scholly-scholarship-search/id640381740?mt=8'"> 
+				</div>
+				
+				</td>
+				<td>
+					<div style="width:150px;height:80px;border:0px solid #000;"><b></b></div>
+				</td>
+				
+				<td>
+					<div style="width:305px;height:100px;border:1px solid #000; display: inline-block;"><b>Scholly for Android</b>
+					<img src="../images/android.png" height="40" width="35"></img>
+					<br><br>
+					<INPUT Type="BUTTON" Value="Download" Onclick="window.location.href='http://play.google.com/store/apps/details?id=com.edu.schollyapp&hl=en'">
+					</div>
+				</td>
+			</tr>
+		</table>
+		
+		<h1>Here's what others have to say: </h1>
+		<p>At first this app was useless for me. It did not have my major when I first downloaded it. I sent an email asking if it would be possible 
+		to have my major in the app. I received a reply within an hour saying they will try there best to have it on the next monthly update. 
+		I saw the update for the app and downloaded it. My major was now apart of the app. The speed at which this was handled was like no other<br><b>-App Store</b></p>
+		
+		<br>
+		<br>
+		
+		<p>We dont waste students time with random scholarships that they do not qualify for nor do we give them a list of things that are not 
+		even scholarships like loans, internships, and advertisements.<br><b>-CNET.com</b></p>
+		
+		<br>
+		
+		<p>Every parent with a child in High School and College must have this App Love how the search is streamlined for the student so that 
+		you avoid searching through scholarships that the student has nothing to do with.<br><b>-Google Play Store</b></p>
+		
+		</div> <!--ends content-->
+			
+		<div id="navigation">
+		</div> <!--end navigation-->
+		
+		<div id="footer">
+		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
+		<p>Press | Download | Twitter | Blog | Advertise</p>
+		</div> <!--footer-->
+	</div> <!--ends container-->
+		
+	</body>
+</html>
+
