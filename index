@@ -25,13 +25,13 @@
 				<img src="images/home.png"</img>
 			<table>
 			<tr>
-				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">Answer a few questions such as your: gpa, gender, 
-				major, etc. to view scholarships specifically for you.</div></td>
+				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">Answer a few questions such as your: GPA, gender, 
+				major, etc. to view scholarships specifically for you!</div></td>
 				
 				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">Download the application 
-				on either on iOS or Android!</div></td>	
+				on either your iOS or Android device!</div></td>	
 				
-				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">With nearly 250,000 downloads, see why people 
+				<td><div style="width:250px;height:80px;border:1px solid #000; display: inline-block;">With nearly 250,000+ downloads, see why people 
 				are downloading Scholly today!</div></td>
 			</tr>
 			</table>		
@@ -43,10 +43,11 @@
 		
 		<div id="footer">
 		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
-		<p>Press | Download | Social Media | Blog | Advertise</p>
+		<p><a href="contact_us/Contact Us.html">Press</a> | <a href="download/download.html">Download</a> | <a href="http://www.facebook.com/pages/Scholly/164162160404693">Facebook</a> | <a href="blog/blog.html">Blog</a> | <a href="contact_us/Contact Us.html">Advertise</a></p>
 		</div> <!--footer-->
 	</div> <!--ends container-->
 		
 	</body>
 </html>
+
 
