@@ -4,10 +4,11 @@
 
 <html>
 	<head>
+
 		<title>Welcome to Scholly!</title>
 			<link rel="stylesheet" href="style.css">
-		
 	</head>
+	
 	<body>
 	<div id="container">
 		<img src="images/logo.jpg"</img>
@@ -21,6 +22,25 @@
 		</h2>
 		</div> <!--ends banner-->
 		<br>	
+		<script type="text/javascript">
+
+//Search box code provided by www.javascriptkit.com
+var domainroot="www.google.com"
+
+function Gsitesearch(curobj){
+curobj.q.value="site:curobj.qfront.value
+}
+
+</script>
+
+
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+<input name="q" type="hidden" />
+<input name="qfront" type="text" style="width: 170px" />
+&nbsp
+<input type="submit" value="Search" /></p>
+</form>
+		
 			<div id="content">	
 				<img src="images/home.png"</img>
 			<table>
