@@ -17,14 +17,15 @@
 		<h2>
 		<a href="index.html">Home</a>&nbsp
 		<a href="download/download.html">Download</a>&nbsp
+		<a href="features/features.html">Features</a>&nbsp
 		<a href="blog/blog.html">Success Stories</a>&nbsp 
 		<a href="contact_us/Contact Us.html">Contact Us</a>
 		</h2>
 		</div> <!--ends banner-->
 		<br>	
-		<script type="text/javascript">
 
-//Search box code provided by www.javascriptkit.com
+<!--Search box code provided by www.javascriptkit.com-->
+<script type="text/javascript">
 var domainroot="www.google.com"
 
 function Gsitesearch(curobj){
@@ -32,7 +33,6 @@ curobj.q.value="site:curobj.qfront.value
 }
 
 </script>
-
 
 <form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
 <input name="q" type="hidden" />
