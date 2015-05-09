@@ -17,12 +17,11 @@
 		<a href="../download/download.html">Download</a>&nbsp
 		<a href="blog.html">Success Stories</a>&nbsp 
 		<a href="../contact_us/Contact Us.html">Contact Us</a>
+		<a href="../about/about.html">About</a>&nbsp
 		</h2>
 		</div> <!--ends banner-->
 		<br>
 		<br>		
-		
-	
 	
 		</div> <!--ends content-->
 			
@@ -31,7 +30,9 @@
 		
 		<div id="footer">
 		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
-		<p>Press | Download | Twitter | Blog | Advertise</p>
+		<p><a href="contact_us/Contact Us.html">Press</a> | <a href="download/download.html">Download</a> | 
+		<a href="http://www.facebook.com/pages/Scholly/164162160404693">Facebook</a> | <a href="blog/blog.html">Blog</a>&nbsp |
+		<a href="contact_us/Contact Us.html">Advertise</a></p>
 		</div> <!--footer-->
 	</div> <!--ends container-->
 		
