@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!--Bridgen bgp25-->
+<!--Bridgen, NJIT IS 117 Final Project-->
 <html>
 	<head>
 		<title>Welcome to Scholly!</title>
@@ -22,7 +22,41 @@
 		</div> <!--ends banner-->
 		<br>
 		<br>		
-	
+		
+		<h2><i>How I won $1.4 million dollars in scholarships</i></h2>
+		<div id="blogpost">
+		<table>
+		<td>
+			<tr>Winning $1.4 million dollars in scholarships was nothing but hard work. I started early in my junior year prior to taking my 
+			SATs. Blah blah blah, whatever whatever whoever. Hey Professor Dorman, hope you are enjoying this website. Alright, back to the 
+			content, and that's how I won over a million dollars in scholarships.</tr>
+		</td>
+		</table>
+		
+		</div>
+		
+		<h2><i>Whatever the second blog post is</i></h2>
+		<div id="blogpost">
+		<table>
+		<td>
+			<tr>Winning $1.4 million dollars in scholarships was nothing but hard work. I started early in my junior year prior to taking my 
+			SATs. Blah blah blah, whatever whatever whoever. Hey Professor Dorman, hope you are enjoying this website. Alright, back to the 
+			content, and that's how I won over a million dollars in scholarships.</tr>
+		</td>
+		</table>
+		</div>
+		
+		<h2><i>Who made this poppin' website?</i></h2>
+		<div id="blogpost">
+		<table>
+		<td>
+			<tr>He goes by the name Bridgen and he's a huge Chicago Bulls fan. In fact he's coding this website while watching the 
+			Chicago Bulls highlights. Cool stuff, other than that he is spending his time studying for finals. </tr>
+		</td>
+		</table>
+		</div>
+		
+		
 		</div> <!--ends content-->
 			
 		<div id="navigation">
