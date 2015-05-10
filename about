@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!--Bridgen bgp25-->
+<!--Bridgen, NJIT IS 117 Final Project-->
 <html>
 	<head>
 		<title>Welcome to Scholly!</title>
@@ -41,8 +41,7 @@ curobj.q.value="site:curobj.qfront.value
 <input type="submit" value="Search" /></p>
 </form>		
 		
-		<h2>Features</h2>
-		
+		<h2>About</h2>
 		<img src="../images/private-school-scholarships.png"</img>
 		
 		<p>
@@ -55,7 +54,6 @@ curobj.q.value="site:curobj.qfront.value
 		We update deadlines as soon as they are available and scholarships that no longer exist will be removed from our database. Scholly is the first step 
 		in making the scholarship search process as simple as possible. Join us!
 		</p>
-		
 			
 		<div id="navigation">
 		</div> <!--end navigation-->
