@@ -57,12 +57,14 @@ body
 {
 	float: right;
 }
-#image_CU
+#image
 {
 	
-	height: 70; 
-	width: 100;
+	height: 70px; 
+	width: 100px;
+	margin: right;
 }
+
 #footer
 {
 	text-align: center;
