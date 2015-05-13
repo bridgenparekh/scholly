@@ -11,7 +11,7 @@
 	
 	<body>
 	<div id="container">
-		<img src="images/logo.jpg"</img>
+		<img src="images/logo.jpg"img>
 		<br>
 		<div id="banner">
 		<h2>
