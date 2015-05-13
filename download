@@ -9,7 +9,7 @@
 	<body>
 	
 	<div id="container">
-		<img src="../images/logo.jpg"</img>
+		<img src="../images/logo.jpg"img>
 		<br>
 		<div id="banner">
 		<h2>
@@ -68,8 +68,7 @@ curobj.q.value="site:curobj.qfront.value
 		<p>At first this app was useless for me. It did not have my major when I first downloaded it. I sent an email asking if it would be possible 
 		to have my major in the app. I received a reply within an hour saying they will try there best to have it on the next monthly update. 
 		I saw the update for the app and downloaded it. My major was now apart of the app. The speed at which this was handled was like no other<br><b>-App Store</b></p>
-		
-		<br>
+	
 		<br>
 		
 		<p>We dont waste students time with random scholarships that they do not qualify for nor do we give them a list of things that are not 
@@ -87,9 +86,9 @@ curobj.q.value="site:curobj.qfront.value
 		
 		<div id="footer">
 		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
-		<p><a href="contact_us/Contact Us.html">Press</a> | <a href="download/download.html">Download</a> | 
-		<a href="http://www.facebook.com/pages/Scholly/164162160404693">Facebook</a> | <a href="blog/blog.html">Blog</a>&nbsp |
-		<a href="contact_us/Contact Us.html">Advertise</a></p>
+		<p><a href="../contact_us/Contact Us.html">Press</a> | <a href="download/download.html">Download</a> | 
+		<a href="http://www.facebook.com/pages/Scholly/164162160404693">Facebook</a> | <a href="../blog/blog.html">Blog</a>&nbsp |
+		<a href="../contact_us/Contact Us.html">Advertise</a></p>
 		</div> <!--footer-->
 	</div> <!--ends container-->
 		
