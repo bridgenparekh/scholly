@@ -10,7 +10,7 @@
 	<body>
 	
 	<div id="container">
-		<img src="../images/logo.jpg"</img>
+		<img src="../images/logo.jpg"img>
 		<br>
 		<div id="banner">
 		<h2>
@@ -45,24 +45,25 @@ curobj.q.value="site:curobj.qfront.value
 		<img src="../images/private-school-scholarships.png"</img>
 		
 		<p>
-		Scholly: Scholarship Search is an easy way for high school seniors, current undergraduates, and graduate students in the United States to find money 
+		"Scholly: Scholarship Search is an easy way for high school seniors, current undergraduates, and graduate students in the United States to find money 
 		for their education. Designed to ease the scholarship search process, Scholly's adaptive matching engine delivers a smarter, targeted list of 
 		scholarships for each student. Unlike those behemoth search databases out there, we value quality over quantity of matched results. Scholly 
 		remedies the current outdated process which requires that each student fill out long, tiresome forms only to receive irrelevant, useless results.
 		Scholly's database consists of a list of scholarships curated by the Million Dollar Scholar himself. We don't waste students time with random 
 		scholarships they don't qualify for nor do we populate our database with non-scholarship items like loans, internships, and advertisements. 
 		We update deadlines as soon as they are available and scholarships that no longer exist will be removed from our database. Scholly is the first step 
-		in making the scholarship search process as simple as possible. Join us!
+		in making the scholarship search process as simple as possible. Join us!"
 		</p>
-			
+		<p>-Apple App Store description</p>
+		
 		<div id="navigation">
 		</div> <!--end navigation-->
 		
 		<div id="footer">
 		<p>Scholly &copy Copyright 2015 | All Rights Reserved </p>
-		<p><a href="contact_us/Contact Us.html">Press</a> | <a href="download/download.html">Download</a> | 
-		<a href="http://www.facebook.com/pages/Scholly/164162160404693">Facebook</a> | <a href="blog/blog.html">Blog</a>&nbsp |
-		<a href="contact_us/Contact Us.html">Advertise</a></p>
+		<p><a href="../contact_us/Contact Us.html">Press</a> | <a href="../download/download.html">Download</a> | 
+		<a href="http://www.facebook.com/pages/Scholly/164162160404693">Facebook</a> | <a href="../blog/blog.html">Blog</a>&nbsp |
+		<a href="../contact_us/Contact Us.html">Advertise</a></p>
 		</div> <!--footer-->
 	</div> <!--ends container-->
 		
